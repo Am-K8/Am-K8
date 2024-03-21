@@ -29,4 +29,4 @@
 ![R programming](https://img.shields.io/badge/R-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Php](https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
