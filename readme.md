@@ -25,3 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupiter Notebook](https://img.shields.io/badge/Jupiter-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R programming](https://img.shields.io/badge/R-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Php](https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
