@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/komalambe1836"></a>
 
 <h3 align="center">
-    This is me trying...✨
+    This is me enjoying the journey of  figuring it all out...✨
 </h3>
 
 
