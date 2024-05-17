@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/komalambe1836"></a>
 
 <h3 align="center">
-    E2E//Experimenting to Experience...✨
+    E2E//Experimenting to Experience ~_~
 </h3>
 
 
